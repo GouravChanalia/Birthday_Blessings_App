@@ -1,0 +1,1 @@
+Here is an app where you can find beautifull birthday quotes for your loved ones.
